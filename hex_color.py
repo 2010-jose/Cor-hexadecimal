@@ -26,5 +26,5 @@ def get_dominant_color(url):
     except Exception as e:
         return str(e)
 
-url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSemi3GdNVjswQLPTNSr_eWBoUVlXuQ6M6YxA&s"
+url = "SUA_URL"
 print(get_dominant_color(url))
